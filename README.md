@@ -1,5 +1,12 @@
-# WasteApp-Hackathonn
-# WasteApp-Hackathonn
-# WasteApp-Hackathon
-# WasteApp-Hackathon
-# WasteApp-Hackathon git init git add README.md git commit -m first commit git branch -M main git remote add origin https://github.com/TyagiiUjjawal/WasteApp-Hackathon.git git push -u origin main
+Here is the ScreenShots of this App.
+Am not able to deploy this on github.
+So you can download zip file nd then extract
+then run Command npm install to install all dependencies
+After this Run command node .\src\app.js
+ Go ahead....
+
+Screenshots:-
+
+https://drive.google.com/drive/folders/1ZtrlOs0c8BqxlAPMniSv_oDVMeNVjbiG?usp=share_link
+
+
